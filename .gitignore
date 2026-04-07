@@ -1,0 +1,22 @@
+/venv
+*.pyc
+__pycache__/
+**/__pycache__/
+**/*.pyc
+temp/flights/temp_folder_20230906215701/.~lock.Billing-ท่าอากาศยานแม่ฟ้าหลวง เชียงราย.xlsx#
+temp/sound/temp_folder_20230906215701/.~lock.Leq0.5s-VTCT-Date20to25Mar2019.xlsx#
+/output
+Processed-data
+Converted_Flight_Log_Bangchalong-Canal.xlsx
+Converted_Flight_Log_BangPla43.xlsx
+Converted_Flight_Log_Bangsaothong.xlsx
+Converted_Flight_Log_HabitiaRamindra.xlsx
+Converted_Flight_Log_Romklao27.xlsx
+Converted_Flight_Log_Silapakorn.xlsx
+Converted_Flight_Log_ThanaPlace.xlsx
+Converted_Flight_Log.xlsx
+Processed-data/output.csv
+*.xlsx
+*.png
+prediction_interval_filter.py
+debug_missing_stations.py
